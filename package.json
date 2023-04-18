@@ -6,7 +6,8 @@
     "build": "hexo generate",
     "clean": "hexo clean",
     "deploy": "hexo deploy",
-    "server": "hexo server"
+    "server": "hexo server",
+    "pm2": "pm2 start ecosystem.config.js"
   },
   "hexo": {
     "version": "6.3.0"
