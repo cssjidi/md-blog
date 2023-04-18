@@ -8,3 +8,4 @@ public/
 .history
 _multiconfig.yml
 source/_posts/*
+package-lock.json
